@@ -33,5 +33,5 @@ message IsAdminRequest{
 }
 
 message IsAdminResponse{
-      bool user_id = 1;
+       bool is_admin = 1;
 }
